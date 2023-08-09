@@ -1,0 +1,47 @@
+.nav-flex {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.surchber {
+    background-color: #F1F1F1;
+    background-image: url(images/Layer_2-12_1_.png);
+    background-repeat: no-repeat;
+    background-position: 365px;
+    width: 400px;
+
+
+}
+
+.album-bg {
+    background-color: #FEEAE9;
+}
+
+.album-titel {
+    color: #1F1F1F;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.price {
+    color: #FF136F;
+    font-family: poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.bye-button {
+    display: flex;
+    width: 168px;
+    padding: 14px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 6px;
+    background: var(--linear, linear-gradient(180deg, #FF589B 0%, #FF136F 100%));
+}
