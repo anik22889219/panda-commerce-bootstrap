@@ -45,3 +45,61 @@
     border-radius: 6px;
     background: var(--linear, linear-gradient(180deg, #FF589B 0%, #FF136F 100%));
 }
+
+.categoris {
+    width: 290px;
+    height: 120px;
+
+    border-radius: 20px;
+    padding: 10px 37px;
+}
+
+.cat1 {
+    background-color: #FF9C35;
+}
+
+.cat2 {
+    background-color: orchid;
+}
+
+.cat3 {
+    background-color: blue;
+}
+
+.cata-taitel {
+    font-size: 36px;
+    font-weight: 500;
+    color: #F1F1F1;
+}
+
+.main-color {
+    background-color: #f4f4f4;
+}
+
+.body-styl {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.card-style {
+    border-radius: 20px;
+    background: #FFF;
+    width: 100%;
+}
+
+.card-text-color {
+    color: #1F1F1F;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    line-break: anywhere;
+
+
+}
+
+.see-all {
+    color: #FF9D00;
+    font-size: 20px;
+}
