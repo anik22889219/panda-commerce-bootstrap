@@ -70,6 +70,7 @@
     font-size: 36px;
     font-weight: 500;
     color: #F1F1F1;
+
 }
 
 .main-color {
@@ -102,4 +103,43 @@
 .see-all {
     color: #FF9D00;
     font-size: 20px;
+}
+
+.footer-styl {
+    height: 455px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.footer-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFF2F1;
+    padding: 55px 200px;
+    flex-direction: column;
+    border-radius: 20px;
+
+}
+
+.footer-box h1 {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: poppins;
+    margin-bottom: 0;
+}
+
+.footer-box p {
+    font-weight: 500;
+    color: #707070;
+    font-size: 16px;
+}
+
+.send-btn {
+    background-color: #FF136F;
+    border-radius: 5px;
+    color: #F1F1F1;
 }
